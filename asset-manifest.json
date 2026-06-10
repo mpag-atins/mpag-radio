@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mpag-radio/index.html/static/css/main.85d151b2.css",
-    "main.js": "/mpag-radio/index.html/static/js/main.227fc24d.js",
-    "static/js/453.e26793b4.chunk.js": "/mpag-radio/index.html/static/js/453.e26793b4.chunk.js",
-    "index.html": "/mpag-radio/index.html/index.html",
-    "static/media/logo.svg": "/mpag-radio/index.html/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "main.85d151b2.css.map": "/mpag-radio/index.html/static/css/main.85d151b2.css.map",
-    "main.227fc24d.js.map": "/mpag-radio/index.html/static/js/main.227fc24d.js.map",
-    "453.e26793b4.chunk.js.map": "/mpag-radio/index.html/static/js/453.e26793b4.chunk.js.map"
+    "main.css": "/mpag-radio/static/css/main.85d151b2.css",
+    "main.js": "/mpag-radio/static/js/main.d5128915.js",
+    "static/js/453.e26793b4.chunk.js": "/mpag-radio/static/js/453.e26793b4.chunk.js",
+    "index.html": "/mpag-radio/index.html",
+    "static/media/logo.svg": "/mpag-radio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.85d151b2.css.map": "/mpag-radio/static/css/main.85d151b2.css.map",
+    "main.d5128915.js.map": "/mpag-radio/static/js/main.d5128915.js.map",
+    "453.e26793b4.chunk.js.map": "/mpag-radio/static/js/453.e26793b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85d151b2.css",
-    "static/js/main.227fc24d.js"
+    "static/js/main.d5128915.js"
   ]
 }
